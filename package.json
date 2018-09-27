@@ -4,7 +4,7 @@
   "description": "test 1 of deploying site to heroku",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
   "author": "Menelik Simpson",
